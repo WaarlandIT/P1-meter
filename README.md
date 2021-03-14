@@ -11,5 +11,9 @@ This software is a Prometheus Node Exporter that reads the P1 port of a DSMR.
 
 ### Installation instrucions
 - Setup the WiFi SSID and password 
+- Check the data ports 
 - You need some libraries like: ESP8266WiFi, SoftwareSerial
 - Compile and flash
+
+### Collection of data
+I have been collecting data for a couple of months now and it is still working fine.
