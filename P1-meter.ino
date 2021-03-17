@@ -8,7 +8,7 @@
 const char* ssid = "<local ssid>";
 const char* password = "<wifi password>";
 const char* host = "p1meter"; // hostname of this "server"
-const int requestPin =  D5; // Dataport for reading dmsr
+const int requestPin =  D5; // Dataport for reading dsmr
 
 ESP8266WebServer server(9100); // Webserver port, Prometheus node eporter uses 9100 by default
 
